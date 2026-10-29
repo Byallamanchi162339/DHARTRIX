@@ -1,0 +1,4 @@
+# Optional dependency for QpiAI Quantum Cloud SDK integration.
+# Install only if you intend to run the explicit QCloud test from the UI.
+-r requirements.txt
+qpiai-quantum
